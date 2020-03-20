@@ -14,7 +14,7 @@ Practice exercises for LING83800 homework 2.
 This is a combination of:
    * [Practicum 3](http://m.mr-pc.org/t/ling83800/2020sp/practicum3.ipynb)
    * Kyle's [gist for Spanish grapheme-to-phoneme conversion](https://gist.github.com/kylebgorman/124909662f1abdab9a97ef06237c557d) 
-   * A problem similar to homework 2, inserting spaces between words
+   * A problem similar to [homework 2](https://github.com/mim/ling83800hw2), inserting spaces between words
 
 
 ## Useful material
